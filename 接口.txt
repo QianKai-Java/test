@@ -1,0 +1,4 @@
+/**
+     * 用药指南目录接口
+     */
+    @GET(/tools/clinical/catalog)
